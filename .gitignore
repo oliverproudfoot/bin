@@ -1,0 +1,8 @@
+*.pyc
+*.log
+*.tmp
+*.DS_Store
+*.csv
+*.tsv
+*.env
+*.ENV
