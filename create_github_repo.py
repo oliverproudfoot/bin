@@ -74,4 +74,3 @@ def create_github_repo(name, private, upload_cwd):
 
 if __name__ == '__main__':
     create_github_repo()
-    
